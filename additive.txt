@@ -1,0 +1,13 @@
+0 Sugar
+0.1 BrownSugar
+0.25 Wheat
+0.35 FlavouredSyrup
+0.35 Barley
+0.4 Сinnamon
+0.45 ExtraMilk
+0.5 Rye
+0.8 Sticks
+0.8 Corn
+1.05 Soybean
+1.1 AcaiSeeds
+1.15 EspressoShot

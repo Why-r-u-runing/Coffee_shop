@@ -1,0 +1,4 @@
+2.45 Americano
+3.65 Cappuccino
+4.45 Macchiato
+4.05 Latte
