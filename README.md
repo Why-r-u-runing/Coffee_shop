@@ -3,6 +3,6 @@ Console app of Coffee shop
 
 Just for example
 
-Was created in github(manual)
+Hometask
 
 PV011
