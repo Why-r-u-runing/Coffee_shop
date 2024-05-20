@@ -1,8 +1,5 @@
 # Coffee_shop
-Console app of Coffee shop
-
-Just for example
+Console app for Coffee shop
 
 Hometask
-
 PV011
